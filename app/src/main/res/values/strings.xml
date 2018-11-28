@@ -1,0 +1,67 @@
+<resources>
+    <!--App Name-->
+    <string name="app_name">Dinner Decider</string>
+
+    <!--Buttons-->
+    <string name="button_decide_food">Decide a Food!</string>
+    <string name="button_decide_drink">Decide a Drink!</string>
+
+    <string name="button_add_food">Add Food</string>
+    <string name="button_add_drink">Add Drink</string>
+
+    <!--TextViews-->
+    <string name="text_view_food">Chinese</string>
+    <string name="text_view_drink">Diet Coke</string>
+
+    <!--EditTexts-->
+    <string name="edit_text_drink">Enter Drink</string>
+    <string name="edit_text_food">Enter Food</string>
+    <string name="image">image</string>
+    <string name="check_order">Check Order</string>
+    <string name="text_thanks_message">Thank you for ordering</string>
+    <string name="home">Home</string>
+    <string name="numberToWord">Number to Word</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="text_view_text">1 to 10000</string>
+    <string name="convert">Convert</string>
+
+    <!--Numbers-->
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="ten">Ten</string>
+    <string name="eleven">Eleven</string>
+    <string name="twelve">Twelve</string>
+    <string name="thirteen">Thirteen</string>
+    <string name="fourteen">Fourteen</string>
+    <string name="fifteen">Fifteen</string>
+    <string name="sixteen">Sixteen</string>
+    <string name="seventeen">Seventeen</string>
+    <string name="eighteen">Eighteen</string>
+    <string name="nineteen">Nineteen</string>
+
+    <string name="twenty">Twenty</string>
+    <string name="thirty">Thirty</string>
+    <string name="forty">Forty</string>
+    <string name="fifty">Fifty</string>
+    <string name="sixty">Sixty</string>
+    <string name="seventy">Seventy</string>
+    <string name="eighty">Eighty</string>
+    <string name="ninety">Ninety</string>
+
+    <string name="hundred">Hundred</string>
+    <string name="thousand">Thousand</string>
+    <string name="lac">Lac</string>
+    <string name="million">Million</string>
+    
+    <!--Blank-->
+    <string name="blank"> </string>
+
+
+</resources>
